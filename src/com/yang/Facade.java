@@ -25,10 +25,10 @@ class ProcessImp implements Process{
     }
 }
 
-class MyFacde{
+class MyFacade{
     private Process process;
 
-    public MyFacde(Process process) {
+    public MyFacade(Process process) {
         this.process = process;
     }
 
@@ -45,8 +45,8 @@ public class Facade {
 
     public static void main(String[] args) {
         Process process = new ProcessImp();
-        MyFacde myFacde = new MyFacde(process);
-        myFacde.myProcess();
+        MyFacade myFacade = new MyFacade(process);
+        myFacade.myProcess();
     }
 
 }
