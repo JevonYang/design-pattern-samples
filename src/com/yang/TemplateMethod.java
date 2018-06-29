@@ -44,9 +44,4 @@ public class TemplateMethod {
         productA.featureC();
         productB.featureC();
     }
-
-
-
-
-
 }
