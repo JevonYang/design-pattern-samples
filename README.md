@@ -1,0 +1,25 @@
+- [ ] Singleton Pattern单例模式
+- [ ] Multition Pattern多例模式
+- [ ] Proxy Pattern代理模式
+- [ ] FactoryMethond Pattern工厂方法模式
+- [ ] AbstractFactory Pattern抽象工程模式
+- [ ] Strategy Pattern策略模式
+- [ ] Facade Pattern门面模式
+- [ ] Adapter Pattern适配器模式
+- [ ] TemplateMethod Pattern模板方法模式
+- [ ] Builder Pattern建造者模式
+- [ ] Bridge Pattern桥梁模式
+- [ ] Command Pattern命令模式
+- [ ] Decorator Pattern装饰器模式
+- [ ] Iterator Pattern迭代器模式
+- [ ] Composite Pattern组合模式
+- [ ] Observer Pattern观察者模式
+- [ ] Chain of Responsibility Pattern责任链模式
+- [ ] Visitor Pattern访问者模式
+- [ ] Status Pattern状态模式
+- [ ] Prototype Pattern原型模式
+- [ ] Mediator Pattern中介者模式
+- [ ] Interpreter Pattern解释器模式
+- [ ] Flyweight Pattern享元模式
+- [ ] Memento Pattern备忘录模式
+
