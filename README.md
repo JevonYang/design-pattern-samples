@@ -12,11 +12,11 @@
 - [x] Builder Pattern建造者模式
 - [ ] Bridge Pattern桥梁模式
 - [x] Command Pattern命令模式
-- [ ] Decorator Pattern装饰器模式
+- [x] Decorator Pattern装饰器模式
 - [x] Iterator Pattern迭代器模式
 - [ ] Composite Pattern组合模式
 - [x] Observer Pattern观察者模式
-- [ ] Chain of Responsibility Pattern责任链模式
+- [x] Chain of Responsibility Pattern责任链模式
 - [ ] Visitor Pattern访问者模式
 - [ ] Status Pattern状态模式
 - [ ] Prototype Pattern原型模式
