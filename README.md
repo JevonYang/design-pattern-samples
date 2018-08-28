@@ -18,8 +18,8 @@
 - [x] Observer Pattern观察者模式
 - [x] Chain of Responsibility Pattern责任链模式
 - [ ] Visitor Pattern访问者模式
-- [ ] Status Pattern状态模式
-- [ ] Prototype Pattern原型模式
+- [x] Status Pattern状态模式
+- [x] Prototype Pattern原型模式
 - [ ] Mediator Pattern中介者模式
 - [ ] Interpreter Pattern解释器模式
 - [ ] Flyweight Pattern享元模式
