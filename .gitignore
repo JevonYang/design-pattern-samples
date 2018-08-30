@@ -17,7 +17,7 @@ target/
 *.iws
 *.iml
 *.ipr
-*.iml
+Pattern.iml
 
 #gradle
 .gradle/
